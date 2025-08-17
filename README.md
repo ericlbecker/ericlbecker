@@ -7,4 +7,4 @@
 - 💬 Ask me about ... why no girls are allowed except Jen
 - 📫 How to reach me: ... ericlbecker@gmail.com  
 - 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ...no girls allowed except Jen.
+- ⚡ Fun fact: ...no girls allowed except Jen.  Well, okay, girls allowed.  If they're collaborating on code or helping me network or build a portfolio.  But otherwise no girls allowed except Jen.
