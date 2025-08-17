@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**ericlbecker/ericlbecker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... learning coding
 - 🌱 I’m currently learning ... GitHub
 - 👯 I’m looking to collaborate on ... anything, I am attempting to build a portfolio and network
@@ -13,4 +8,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... ericlbecker@gmail.com  
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ...no girls allowed except Jen.
--->
